@@ -1,0 +1,22 @@
+body, html{
+    color-scheme: dark;
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    overflow: hidden;
+    width: 100vm;
+}
+
+main{
+    width: 800px;
+    max-width: 800px;
+
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+
+a, u {
+    text-decoration: none;
+}
